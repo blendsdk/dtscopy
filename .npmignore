@@ -1,0 +1,6 @@
+.gitignote
+.code
+.dist
+.vscode
+node_modules
+*.tgz

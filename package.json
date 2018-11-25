@@ -1,0 +1,36 @@
+{
+    "name": "@blendsdk/dtscopy",
+    "version": "1.0.2",
+    "description": "A simple utility to copy TypeScript definition files from one location to another.",
+    "main": "index.js",
+    "bin": {
+        "dtscopy": "./dtscopy.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/blendsdk/dtscopy.git"
+    },
+    "keywords": [
+        "typescript",
+        "build",
+        "nodejs",
+        "copy",
+        "xcopy",
+        "utility"
+    ],
+    "author": "Gevik Babakhani <gevikb@gmail.com>",
+    "license": "Apache 2.0",
+    "bugs": {
+        "url": "https://github.com/blendsdk/dtscopy/issues"
+    },
+    "homepage": "https://github.com/blendsdk/dtscopy#readme",
+    "dependencies": {
+        "argparse": "^1.0.10",
+        "colors": "^1.3.2",
+        "glob": "^7.1.3",
+        "mkdirp": "^0.5.1"
+    }
+}
