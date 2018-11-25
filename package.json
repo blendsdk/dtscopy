@@ -1,6 +1,6 @@
 {
     "name": "@blendsdk/dtscopy",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A simple utility to copy TypeScript definition files from one location to another.",
     "main": "index.js",
     "bin": {
