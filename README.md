@@ -16,6 +16,6 @@ $ npm install --save-dev @blendsdk/dtscopy
   },
 ```
 
-<h3>License</h3>
+## License<
 
 This project is licensed under the Apache 2.0 License
